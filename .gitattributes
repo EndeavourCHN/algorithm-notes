@@ -1,0 +1,11 @@
+# Count algorithm source files in GitHub language statistics.
+docs/**/*.cpp linguist-detectable=true
+docs/**/*.cpp linguist-documentation=false
+docs/**/*.cc linguist-detectable=true
+docs/**/*.cc linguist-documentation=false
+docs/**/*.cxx linguist-detectable=true
+docs/**/*.cxx linguist-documentation=false
+docs/**/*.hpp linguist-detectable=true
+docs/**/*.hpp linguist-documentation=false
+docs/**/*.hxx linguist-detectable=true
+docs/**/*.hxx linguist-documentation=false
