@@ -1,9 +1,9 @@
-site_name: My Algorithm Templates
+site_name: Algorithm Notes
 site_description: 信竞算法笔记与代码模板文档站
 site_author: EndeavourCHN
-site_url: https://endeavourchn.github.io/My-Algorithm-Templates/
-repo_url: https://github.com/EndeavourCHN/My-Algorithm-Templates
-repo_name: EndeavourCHN/My-Algorithm-Templates
+site_url: https://endeavourchn.github.io/algorithm-notes/
+repo_url: https://github.com/EndeavourCHN/algorithm-notes
+repo_name: EndeavourCHN/algorithm-notes
 edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2026 EndeavourCHN
 
@@ -65,7 +65,7 @@ extra_css:
 
 extra:
   giscus:
-    repo: EndeavourCHN/My-Algorithm-Templates
+    repo: EndeavourCHN/algorithm-notes
     repo_id: R_kgDOPMS5GQ
     category: Announcements
     category_id: DIC_kwDOPMS5Gc4Ctey0
