@@ -1,4 +1,4 @@
-# My Algorithm Templates
+# Algorithm Notes
 
 我的信竞算法笔记与代码模板文档站。
 
