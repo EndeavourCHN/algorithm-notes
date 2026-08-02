@@ -1,11 +1,11 @@
 site_name: Algorithm Notes
 site_description: 信竞算法笔记与代码模板文档站
-site_author: EndeavourCHN
-site_url: https://endeavourchn.github.io/algorithm-notes/
-repo_url: https://github.com/EndeavourCHN/algorithm-notes
-repo_name: EndeavourCHN/algorithm-notes
+site_author: EndeavourChiu
+site_url: https://endeavourchiu.github.io/algorithm-notes/
+repo_url: https://github.com/EndeavourChiu/algorithm-notes
+repo_name: EndeavourChiu/algorithm-notes
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2026 EndeavourCHN
+copyright: Copyright &copy; 2026 EndeavourChiu
 
 exclude_docs: |
   superpowers/**
@@ -65,7 +65,7 @@ extra_css:
 
 extra:
   giscus:
-    repo: EndeavourCHN/algorithm-notes
+    repo: EndeavourChiu/algorithm-notes
     repo_id: R_kgDOPMS5GQ
     category: Announcements
     category_id: DIC_kwDOPMS5Gc4Ctey0
