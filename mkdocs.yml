@@ -78,6 +78,9 @@ extra:
 
 nav:
   - 首页: index.md
+  - 实用基础:
+      - 简介: cpp/index.md
+      - vector、string 与 pair: cpp/vector-string-pair.md
   - 算法基础:
       - 简介: basic/index.md
       - 排序: basic/sort.md
